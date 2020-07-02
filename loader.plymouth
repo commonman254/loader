@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=loader
+Description=simple loading animation
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/loader
+ScriptFile=/usr/share/plymouth/themes/loader/animated-boot.script
